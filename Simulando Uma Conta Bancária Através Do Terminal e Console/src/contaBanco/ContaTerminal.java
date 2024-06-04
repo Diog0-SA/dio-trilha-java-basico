@@ -22,6 +22,7 @@ public class ContaTerminal {
 		System.out.println("Por favor, digite o saldo!");
 		String saldoS = banco.nextLine();
 		
+		banco.close(); // Fechando Scanner
 		// Convertendo
 		int conta = Integer.parseInt(numero);
 		int saldo = Integer.parseInt(saldoS);
