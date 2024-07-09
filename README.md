@@ -13,3 +13,5 @@ Mais detalhes nos próprios repositório
 [Controle de fluxo contador](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/controle-de-fluxo-Desafio)
 
 [Modelando o iPhone com UML](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/iphone-uml-desafio)
+
+[Banco Digital](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/banco-digital-desafio)
