@@ -1,15 +1,12 @@
 ## Dados
 - Autor: Diogo Silva Almeida 
 - Curso: Santander 2024 - Backend com Java
+- Módulo: Criando um Banco Digital com Java e Orientação a Objetos
+- Data: 09/07/24
 
-## Objetivo:
-Esse repositório tem o objetivo de centralizar todos os desafios feitos no Bootcamp Santander Java 2024. 
-Mais detalhes nos próprios repositório
+## Projeto
 
-## Links dos projetos:
+Desafio: Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário: “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).”
 
-[Conta bancaria](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/conta-bancaria-Desafio)
+[Link do projeto](https://github.com/falvojr/lab-banco-digital-oo)
 
-[Controle de fluxo contador](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/controle-de-fluxo-Desafio)
-
-[Modelando o iPhone com UML](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/iphone-uml-desafio)
