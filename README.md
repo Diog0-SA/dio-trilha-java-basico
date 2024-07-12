@@ -15,3 +15,4 @@ Mais detalhes nos próprios repositório
 [Modelando o iPhone com UML](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/iphone-uml-desafio)
 
 [Banco Digital](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/banco-digital-desafio)
+[Abstraindo bootcamp](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/abstraindo-bootcamp-desafio)
