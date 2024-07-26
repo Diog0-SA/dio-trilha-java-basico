@@ -15,4 +15,9 @@ Mais detalhes nos próprios repositório
 [Modelando o iPhone com UML](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/iphone-uml-desafio)
 
 [Banco Digital](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/banco-digital-desafio)
+
 [Abstraindo bootcamp](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/abstraindo-bootcamp-desafio)
+
+[Design patterns](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/java-design-patterns-desafio)
+
+[API REST com Spring Boot 3, Java 17 e Railway](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/santander-dev-week-desafio)
