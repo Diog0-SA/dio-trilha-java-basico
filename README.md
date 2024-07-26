@@ -1,18 +1,12 @@
 ## Dados
 - Autor: Diogo Silva Almeida 
 - Curso: Santander 2024 - Backend com Java
+- Módulo: Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway
+- Data: 26/07/24
 
-## Objetivo:
-Esse repositório tem o objetivo de centralizar todos os desafios feitos no Bootcamp Santander Java 2024. 
-Mais detalhes nos próprios repositório
+## Projeto
 
-## Links dos projetos:
+Desafio: Com o poder do Spring Boot 3, otimizamos nossa produtividade graças à sua habilidade de autoconfiguração. Além disso, facilitamos o acesso aos bancos de dados SQL com o auxílio do Spring Data JPA. Também destacamos a importância de uma documentação de API robusta e clara, utilizando o OpenAPI, ou Swagger. E com o Railway, simplificamos o Deploy de nossas soluções na nuvem. Agora, é hora de embarcar em um novo desafio e explorar um domínio de aplicação diferente, mantendo nosso foco em inovar e desenvolver soluções de alto padrão!
 
-[Conta bancaria](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/conta-bancaria-Desafio)
+[Link do projeto](https://github.com/falvojr/santander-dev-week-2023)
 
-[Controle de fluxo contador](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/controle-de-fluxo-Desafio)
-
-[Modelando o iPhone com UML](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/iphone-uml-desafio)
-
-[Banco Digital](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/banco-digital-desafio)
-[Abstraindo bootcamp](https://github.com/Diog0-SA/dio-trilha-java-basico/tree/abstraindo-bootcamp-desafio)
